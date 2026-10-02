@@ -95,8 +95,8 @@ Current progress:
 * [x] Project created
 * [x] GitHub repository created
 * [x] Initial components identified
-* [ ] Connect the 3641BS to the ESP32
-* [ ] Test the display
+* [x] Connect the 3641BS to the ESP32
+* [x] Test the display
 * [ ] Test the button
 * [ ] Program the timer
 * [ ] Add hourly photo reminders
