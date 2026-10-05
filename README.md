@@ -115,3 +115,11 @@ Depending on how the first version goes, I may add:
 * A more compact PCB
 * A custom 3D-printed enclosure
 * Improved display animations
+
+# Some photos:
+<img width="3024" height="4032" alt="IMG_3067" src="https://github.com/user-attachments/assets/e6246988-c982-4361-b38d-a9078988dce2" />
+<img width="3024" height="4032" alt="IMG_3066" src="https://github.com/user-attachments/assets/e773714b-2357-4444-821b-7fb0cfb202c0" />
+<img width="3024" height="4032" alt="IMG_3065" src="https://github.com/user-attachments/assets/3e406b3d-ce18-4183-8b90-473270ddbd28" />
+<img width="3024" height="4032" alt="IMG_3087" src="https://github.com/user-attachments/assets/216a163f-839e-43ba-8cdf-0b2165133852" />
+
+
